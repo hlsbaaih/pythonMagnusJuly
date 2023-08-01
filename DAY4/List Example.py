@@ -21,5 +21,6 @@ print(a1)
 a1.pop(4)
 print(a1)
 print(a1)
+print(a1)
 
 
